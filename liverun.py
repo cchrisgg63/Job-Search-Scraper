@@ -67,7 +67,3 @@ for job in jobs:
 
 driver.quit()
 
-
-git remote add origin https://github.com/cchrisgg63/Job-Search-Scraper.git
-git branch -M main
-git push -u origin main
