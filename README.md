@@ -1,3 +1,5 @@
+liverun.py is the file to use to dynamically search websites. main.py and home.html are a smaller version of that program.
+
 Before running this project, you'll need to run this in your terminal and activate your virtual network. Wherever you venv is sourced. 
 This is a safer way to install external packages into your computer.
 
